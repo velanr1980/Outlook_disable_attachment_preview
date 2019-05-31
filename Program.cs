@@ -156,7 +156,7 @@ namespace Outlook_disable_attachment_preview
             Console.ForegroundColor = ConsoleColor.Yellow;
 
             Console.WriteLine("Do you want to continue enabling & disabling the Outlook attachment preview feature?");
-            Console.WriteLine("Type ENABLE or DISABLE or EXIT: ");
+            Console.WriteLine("Type ENABLE or DISABLE or EXIT:");
             string input1 = string.Empty;
             //input1 = Console.ReadLine().ToUpper();
 
