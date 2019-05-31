@@ -178,7 +178,7 @@ namespace Outlook_disable_attachment_preview
 
                 Console.WriteLine("\nInvalid input. Please try again.");
                 Console.WriteLine("Type ENABLE or DISABLE or EXIT:");
-
+                //Usage of contain may not be accurate, as any containing EXIT like BREXIT is accepted
 
             } while (true);
 
