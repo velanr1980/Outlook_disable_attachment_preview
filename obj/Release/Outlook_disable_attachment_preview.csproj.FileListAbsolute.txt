@@ -1,0 +1,5 @@
+C:\Users\velan\OneDrive\DOT NET PROJECTS\Outlook attachment preview\Outlook_disable_attachment_preview\bin\Release\Outlook_disable_attachment_preview.exe
+C:\Users\velan\OneDrive\DOT NET PROJECTS\Outlook attachment preview\Outlook_disable_attachment_preview\bin\Release\Outlook_disable_attachment_preview.pdb
+C:\Users\velan\OneDrive\DOT NET PROJECTS\Outlook attachment preview\Outlook_disable_attachment_preview\obj\Release\Outlook_disable_attachment_preview.csproj.CoreCompileInputs.cache
+C:\Users\velan\OneDrive\DOT NET PROJECTS\Outlook attachment preview\Outlook_disable_attachment_preview\obj\Release\Outlook_disable_attachment_preview.exe
+C:\Users\velan\OneDrive\DOT NET PROJECTS\Outlook attachment preview\Outlook_disable_attachment_preview\obj\Release\Outlook_disable_attachment_preview.pdb
